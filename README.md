@@ -21,5 +21,4 @@ How many frames are allocated to the process: 20
 How many page references would you like to simulate: 1000
 The algorithm produced 247 page faults, or 24.7%.
 
-When generating your sequence of page references, simply generate a random page number for each page reference – use the number of virtual pages to randomly select a number. You do not need to generate the entire sequence ahead of time – it would probably be easier to handle each page as it is generated.
 
